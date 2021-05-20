@@ -1,0 +1,5 @@
+if (condition) {
+    // code goes here if the condition is true
+} else {
+    // code goes here if the condition is false
+}

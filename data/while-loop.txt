@@ -1,0 +1,3 @@
+while (condition) {
+    // while condition is true run this section
+}
