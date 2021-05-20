@@ -1,0 +1,1 @@
+String[] myStringArray = {"string one", "another string", "string three"};
